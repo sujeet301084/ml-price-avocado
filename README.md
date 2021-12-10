@@ -1,4 +1,4 @@
-### ml-price-avocado
+### Price Prediction of Avocado
 Project on price prediction of avocado 
 ### About Avocado
 An avocado is a bright green fruit with a large pit and dark leathery skin. They’re also known as alligator pears or butter fruit. 
